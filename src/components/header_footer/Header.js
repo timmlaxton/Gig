@@ -16,7 +16,7 @@ class Header extends Component {
     }
 
 
-    componentDidMount(){
+    UNSAFE_componentWillMount(){
         window.addEventListener('scroll',this.handleScroll);
     }
 
