@@ -27,10 +27,10 @@ const Carrousel = () => {
         >
             <Slider {...settings}>
                 <div>
-                <div className="carrousel_image"
-                style={{
-                    background:`url(${slide_one})`,
-                    height: `${window.innnerHeight}px`
+                    <div className="carrousel_image"
+                    style={{
+                        background:`url(${slide_one})`,
+                        height: `${window.innerHeight}px`
                     }}
                     ></div>
                 </div>
@@ -38,7 +38,7 @@ const Carrousel = () => {
                     <div className="carrousel_image"
                 style={{
                     background:`url(${slide_two})`,
-                    height: `${window.innnerHeight}px`
+                    height: `${window.innerHeight}px`
                     }}
                     ></div>>
                     </div>
@@ -46,7 +46,7 @@ const Carrousel = () => {
                         <div className="carrousel_image"
                 style={{
                     background:`url(${slide_three})`,
-                    height: `${window.innnerHeight}px`
+                    height: `${window.innerHeight}px`
                     }}
                     ></div>
                     </div>
