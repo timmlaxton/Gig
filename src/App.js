@@ -5,6 +5,8 @@ import Header from './components/header_footer/Header'
 import Featured from './components/featured';
 import VenueNfo from './components/venueNfo';
 import Highlights from './components/Highlights'
+import Location from './components/Location';
+import Footer from './components/header_footer/Footer';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Featured />
       <VenueNfo/>
       <Highlights/>
+      <Location/>
+      <Footer/>
     </div>
   );
 }
