@@ -22,19 +22,11 @@ const Description = () => {
                 <li> Friday 14th August: The Jesus and Mary Chain £37.50 + BF</li>
                 <li> Saturday 15th August: Edwyn Collins & Altered Images £35 + BF </li>
                 </ul>
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
                 
                 
                 </div>
+
+                
             </div>
             
         </Fade>

@@ -25,10 +25,11 @@ const VenueNfo = () => {
                             
                             ></div>
                             <div className="vn_title">
-                                Event Date
+                                Event Dates
                             </div>
                             <div className="vn_desc">
-                                30th July 2020
+                                <p> 30th July -  </p>  
+                                <p>  - 15th August</p>
                             </div>
                         </div>
                     </div>

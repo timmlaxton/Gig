@@ -45,7 +45,7 @@ componentDidUpdate(){
 
                     <Slide right>
                     <div className="discount_description">
-                        <h3> Summer nights pledgs to donate 10% from each ticket sold to help teach music to children throughout Glasgow.   </h3>
+                        <h3> Summer Nights pledges to donate 10% from each ticket sold to help teach music to children throughout Glasgow.   </h3>
 
                         
 

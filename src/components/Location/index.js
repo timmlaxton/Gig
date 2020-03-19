@@ -14,12 +14,11 @@ const Location = () => {
             tabindex="0"
             ></iframe>
 
-            <div className="location_tag">
-                <div>Location</div>
+            
 
             </div>
 
-        </div>
+        
     );
 };
 

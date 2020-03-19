@@ -10,7 +10,7 @@ const Featured = () => {
 
         <div className="artist_name">
             <div className="wrapper">
-                Jesus and the Mary Chain
+                July 30th - August 15th
             </div>
 
 
